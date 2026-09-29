@@ -1,113 +1,65 @@
-# 🏍️ Two-Wheeler Spare Parts Analytics Dashboard
+# 🏍️ Two-Wheeler Spare Parts Analytics
 
-## 📌 Project Overview
+## Project Overview
+This Power BI project analyzes two-wheeler spare parts sales, inventory, demand, supplier performance, and profitability to support better business and stock-management decisions.
 
-This Power BI project analyzes two-wheeler spare parts sales, inventory, demand, supplier performance, and profitability.
+## Business Objectives
+- Track revenue, profit, sales quantity, and monthly trends
+- Identify top-selling categories, brands, and spare parts
+- Monitor low-stock, overstock, and inventory coverage
+- Support demand forecasting and reorder planning
+- Evaluate supplier delivery performance and lead time
+- Perform ABC and profitability analysis
+- Convert findings into strategic recommendations
 
-The dashboard is designed to help a spare parts business understand sales performance, identify inventory risks, forecast demand, evaluate suppliers, and make better stock-management decisions.
+## Dashboard Pages
+1. **Executive Summary**
+2. **Sales Analysis**
+3. **Inventory Analysis**
+4. **Forecast Dashboard**
+5. **Supplier Analysis**
+6. **ABC & Profitability Analysis**
+7. **Strategic Recommendations**
 
-## 🎯 Business Objective
+## Key Dashboard Areas
+- Monthly revenue and profit trend
+- Top-selling categories and parts
+- Sales by brand
+- Inventory status and stock risk
+- Forecast-driven inventory planning
+- Supplier on-time delivery and average lead time
+- Supplier purchase value and monthly purchase trend
+- Revenue contribution by ABC category
+- Profit by ABC category
+- Top revenue-generating parts
 
-The main objectives of this project are to:
-
-- Analyze spare parts sales performance
-- Identify high-demand and low-demand products
-- Monitor low-stock and overstock situations
-- Forecast future spare-part demand
-- Evaluate supplier performance
-- Analyze profitability using ABC classification
-- Provide actionable inventory and business recommendations
-
-## 📊 Dashboard Pages
-
-### 1. Executive Summary
-Provides a high-level overview of business performance including revenue, profit, sales trends, top categories, brands, and spare parts.
-
-### 2. Sales Analysis
-Analyzes:
-
-- Monthly sales trends
-- Category-wise sales
-- Day-of-week sales patterns
-- Spare-part revenue details
-
-### 3. Inventory Analysis
-Tracks:
-
-- In-stock items
-- Low-stock items
-- Overstock items
-- Stock coverage
-- Stock shortages
-- Reorder requirements
-
-### 4. Smart Inventory Forecast Dashboard
-Provides:
-
-- Predicted demand
-- Inventory risk levels
-- Forecasted high-demand spare parts
-- Reorder recommendations
-
-### 5. Supplier Analysis
-Evaluates suppliers based on:
-
-- On-time delivery
-- Delivery delays
-- Average lead time
-- Supplier purchase value
-- Monthly purchase trends
-
-### 6. ABC & Profitability Analysis
-Analyzes:
-
-- ABC inventory classification
-- Revenue contribution
-- Profit contribution
-- Top revenue-generating spare parts
-- Profit margins
-
-### 7. Strategic Recommendations
-Provides business recommendations for improving:
-
-- Inventory management
-- Stock availability
-- Overstock control
-- Supplier performance
-- High-demand product availability
-
-## 💡 Key Insights
-
-- Category A spare parts contribute the largest share of revenue.
-- High-demand items require better stock planning to avoid shortages.
-- Overstocked items can increase unnecessary inventory costs.
-- Supplier lead time and delivery delays can affect inventory availability.
-- Demand forecasting can support better reorder decisions.
-
-## 🛠️ Tools Used
-
+## Tools & Skills
 - Power BI
 - Power Query
 - DAX
 - Data Cleaning
+- Data Modeling
 - Data Visualization
 - Inventory Analysis
 - Demand Forecasting
+- Supplier Analysis
+- ABC Analysis
 - Business Analytics
 
-## 📁 Project File
+## Repository Contents
+- `Two_Wheeler_Spare_Parts_Analytics.pbix` — Complete interactive Power BI report
+- `PROJECT_OVERVIEW.md` — Business problem, objectives, and project flow
+- `DASHBOARD_PAGES.md` — Description of all dashboard pages
+- `screenshots/` — Add exported dashboard screenshots here
+- `data/` — Add the source dataset here if it is suitable for public sharing
 
-`Spares.pbix`
+## How to View
+1. Download `Two_Wheeler_Spare_Parts_Analytics.pbix`
+2. Open it using **Microsoft Power BI Desktop**
+3. Use the report navigation and slicers to explore the dashboard
 
-The Power BI file contains the complete interactive dashboard.
+## Portfolio Note
+Screenshots should be added to this README so recruiters can preview the dashboard without downloading the PBIX file.
 
-## 🚀 Business Value
-
-This dashboard helps businesses make data-driven decisions related to:
-
-- Inventory planning
-- Demand forecasting
-- Supplier management
-- Sales analysis
-- Profitability improvement
-- Stock optimization
+---
+**Author:** Kiran Raj

@@ -1,0 +1,13 @@
+# Power BI temporary / local files
+*.pbix.autosave
+*.pbit.autosave
+~$*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache (if Python analysis is added later)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
